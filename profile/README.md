@@ -7,8 +7,8 @@ author: Bonus Rehberi
 
 <h1 align="center">🎰 Bonus Veren Siteler – 2025 Güncel Liste</h1>
 
-
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed; text-align: center;">
+<!-- 1. SATIR -->
+<table>
   <tr>
     <th>Kralbet</th>
     <th>Sahabet</th>
@@ -29,8 +29,10 @@ author: Bonus Rehberi
     <td><a href="https://cutt.ly/nrvXgVNa" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-006400?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://cutt.ly/orbqkTFX" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-800080?style=for-the-badge&logoColor=white" /></a></td>
   </tr>
+</table>
 
-  <!-- 2. Satır -->
+<!-- 2. SATIR -->
+<table>
   <tr>
     <th>Piabet</th>
     <th>Tarafbet</th>
@@ -51,8 +53,10 @@ author: Bonus Rehberi
     <td><a href="https://cutt.ly/7rWja0JT" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-800000?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://cutt.ly/xrvbv2wY" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-00CED1?style=for-the-badge&logoColor=black" /></a></td>
   </tr>
+</table>
 
-  <!-- 3. Satır -->
+<!-- 3. SATIR -->
+<table>
   <tr>
     <th>Pusulabet</th>
     <th>Xslot</th>
@@ -65,38 +69,37 @@ author: Bonus Rehberi
   </tr>
   <tr>
     <td>500 FREEBET & 500 FREESPIN 🎁</td>
-    <td>1000₺ Deneme Bonusu & 1000 Free Spin 🎁</td>
-    <td>1000₺ Deneme Bonusu & 1000 Free Spin 🎁</td>
+    <td>1000₺ DENEME BONUSU <br> 1000 FREE SPİN 🎁</td>
+    <td>1000₺ DENEME BONUSU <br> 1000 FREE SPİN 🎁</td>
   </tr>
   <tr>
     <td><a href="https://cutt.ly/yrQsgejE" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FFC107?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://cutt.ly/crEuEsEx" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-1E90FF?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://cutt.ly/NrEughv5" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FF4500?style=for-the-badge&logoColor=white" /></a></td>
   </tr>
+</table>
 
-  <!-- 4. Satır -->
+<!-- 4. SATIR -->
+<table>
   <tr>
     <th>1xbet</th>
     <th>Bizbet</th>
-    <th></th>
   </tr>
   <tr>
     <td><a href="http://shortlinkapp.com/1xbet" target="_blank"><img src="https://resmim.net/cdn/2025/06/01/Tdq5Sc.jpg" width="250" /></a></td>
     <td><a href="https://refpa7480988.top/L?tag=d_4420769m_62079c_&site=4420769&ad=62079" target="_blank"><img src="https://resmim.net/cdn/2025/06/08/Tbkxd1.jpg" width="250" /></a></td>
-    <td></td>
   </tr>
   <tr>
     <td>5500 TL DENEME BONUSU 🎁</td>
-    <td>%100 Hoşgeldin Bonusu 🎁 <br> 3000 TL</td>
-    <td></td>
+    <td>%100 HOŞGELDİN BONUSU <br> 3000 TL 🎁</td>
   </tr>
   <tr>
     <td><a href="http://shortlinkapp.com/1xbet" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-007BFF?style=for-the-badge&logoColor=white" /></a></td>
     <td><a href="https://refpa7480988.top/L?tag=d_4420769m_62079c_&site=4420769&ad=62079" target="_blank"><img src="https://img.shields.io/badge/Bonusu_Al-Hemen_Tıkla-FF6600?style=for-the-badge&logoColor=white" /></a></td>
-    <td></td>
   </tr>
 </table>
 
+<!-- TELEGRAM VE İLETİŞİM -->
 <h2>📲 Bonus Telegram Kanalı</h2>
 <h3>Telegram kanalımızdan da bizi takip edebilirsiniz</h3>
 <p>
