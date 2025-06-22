@@ -5,7 +5,7 @@ keywords: bonus veren siteler, kayıt bonusu, yatırım yapmadan kazan, şartsı
 author: Bonus Rehberi
 -->
 
-</h1>🎰 Bonus Veren Siteler – 2025 Güncel Liste</h1>
+<h1>🎰 Bonus Veren Siteler – 2025 Güncel Liste</h1>
 
 <!-- 1. SATIR -->
 <table>
